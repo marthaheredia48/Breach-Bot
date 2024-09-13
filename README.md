@@ -1,32 +1,10 @@
-# Breach Bot Starter Code
+# Breach Bot - A Chatbot on Facebook's 2019 Data Breach
 
-This is the Starter Code for Breach Bot!
+**Breach Bot** is an interactive chatbot that educates users about the **Facebook 2019 data breach** and provides insights into cybersecurity concepts, including the **CIA Triad** (Confidentiality, Integrity, Availability). This project was developed during the **Girls Who Code Summer Camp 2023**.
 
-### Project Requirements
-- Your project should:
-- Vary responses based on user input.
-- Use a conditional to identify the details of a data breach and the organization's response.
-- Use a while loop to repeat breach research.
-- Use a conditional to display three reflections:  your reaction, its connection to the CIA Triad, and your advice.
-- Use a while loop to repeat reflections.
-- Use a break statement to end the while-loops.
+## Features
+- **Interactive Learning**: Users can explore details of the Facebook data breach, the organization’s response, and my reflections on the incident.
+- **CIA Triad Explanation**: The chatbot ties the breach to key cybersecurity concepts, helping users understand how confidentiality was compromised.
+- **Critical Reflection**: Offers personal opinions on Facebook's response and advice on how users should protect themselves after a breach.
 
-### Extensions
-- Add more details and thoughts around your data breach.
-- Paraphrase your statements to teach a community member.
-- Add actionable steps for users to protect their information.
-
-###  Attributions
-*If you used any code, stories, or poems from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own. 
-- Add here if applicable
-
----
-
-## File Overview
-
-### ← README.md
-
-README.md file give you more documentation and information about a program. They are super helpful for describing what a program should do, any issues you've encountered, changes you want to make, and more. 
-
-### ← main.py
-This is where you will write your main program.
+https://replit.com/@marthah48/Breach-Bot-Starter-Code-Martha-H?v=1
